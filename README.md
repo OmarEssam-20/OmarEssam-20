@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, 👋, I'm Omar Essam<br>A passionate Data Scientist from Egypt<br>🌱 I’m currently learning AI & ML<br>💬 You can reach me here: https://www.linkedin.com/in/omar-essam20/<br>📫 Or you can reach me at oes1372003@gmail.com
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-essam20/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oes1372003@gmail.com) 
@@ -11,8 +13,7 @@ Hi, 👋, I'm Omar Essam<br>A passionate Data Scientist from Egypt<br>🌱 I’m
 ![](https://github-readme-stats.vercel.app/api?username=OmarEssam-20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarEssam-20&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmarEssam-20&icon=0&color=0)](https://visitcount.itsvg.in)
