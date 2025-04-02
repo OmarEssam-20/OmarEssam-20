@@ -2,7 +2,7 @@
 Hi, 👋, I'm Omar Essam<br>A passionate Data Scientist from Egypt<br>🌱 I’m currently learning AI & ML<br>💬 You can reach me here: https://www.linkedin.com/in/omar-essam20/<br>📫 Or you can reach me at oes1372003@gmail.com
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-essam20/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oes1372003@gmail.com) 
